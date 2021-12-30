@@ -1,0 +1,103 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@400;600&family=Montserrat:wght@200;300;400;500;600&display=swap');
+
+body{
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(./FONDOS/FONDO-07.png);
+    background-size:cover;
+
+}
+
+.logo{ 
+
+    width: 70%;
+    margin: 50px;
+
+}
+
+div{
+
+    width: 80%;
+    margin: auto;
+
+}
+
+a{
+
+    display: block;
+    color: #fff;
+    font-family: antonio;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.btn{
+
+    border: 2px solid #fff;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.btn-wp{
+
+    background-color: #25D366;
+    padding: 15px;
+    margin: 50px 0px;
+
+}
+
+.izquierda{
+
+    text-align: justify;
+    padding-left: 30px;
+
+}
+
+.portada{
+
+    width: 100%;
+
+}
+
+.antonio{
+
+    font-family: antonio;
+    color: #fff;
+
+}
+
+p{
+    
+    font-family: montserrat;
+    color: #fff;
+    font-size: 20px;
+    margin-top: -15px !important;
+
+}
+
+button{
+
+    display: block;
+    text-align: center;
+    background: none;
+    border: none;
+    color: #fff;
+    font-family: montserrat;
+    font-weight: 500;
+    font-size:20px;
+    margin: 30px auto;
+
+}
+
+.parrafo{
+
+    text-align: justify;
+    padding: 20px;
+
+}
